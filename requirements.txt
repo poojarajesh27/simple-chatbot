@@ -1,0 +1,10 @@
+streamlit
+fastapi
+uvicorn
+langgraph
+langchain
+langchain-core
+langchain-google-genai  # Add this line
+pydantic
+python-dotenv
+requests
